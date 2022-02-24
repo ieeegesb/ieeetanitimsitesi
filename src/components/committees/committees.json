@@ -1,0 +1,73 @@
+{
+    "aess": {
+        "fullname": "Aerospace & Electronic Systems Society",
+        "imgSrc": "",
+        "about": "",
+        "idariKurul": [{"name": "Sedat Kasımoğlu"}, {"name": "Ozan Okumuş"}, {"name": "Furkan Çağatay Ekinci"}]
+    },
+
+
+    "cs": {
+        "fullname": "Computer Society",
+        "imgSrc": "",
+        "about": "Computer Society (CS), IEEE’nin özellikle bilgisayar bilimlerine odaklanan komitesidir. Bu komitenin amacı, bilgisayar bilimi ve teknolojileri teorisini, pratiğini ve uygulamasını ileriye taşımak; üyelerini ve topluluğu bu alanda geliştirmek ve bilinçlendirmektir. IEEE Ege Student Branch bünyesinde bulunan IEEE Ege Computer Society, hem sosyal hem teknik bir komite olmayı hedeflemektedir.",
+    
+        "idariKurul": [{"name": "Alen Babayiğit"}, {"name": "Muhammet Şancı"}]
+    },
+
+
+    "ea": {
+        "fullname": "Educational Activities",
+        "imgSrc": "",
+        "about": "",
+        "idariKurul": [{"name": "Taha Eren Çavdar"}, {"name": "Elif İlayda Melemez"}]
+    },
+
+
+    "edsoc": {
+        "fullname": "Education Society",
+        "imgSrc": "",
+        "about": "",
+        "idariKurul": [{"name": "Simge Keskin"}, {"name": "Sezin Güngen"}, {"name": "Tolga Halıcıoğlu"}]
+    },
+
+
+    "embs": {
+        "fullname": "Engineering in Medicine & Biology Society",
+        "imgSrc": "",
+        "about": "",
+        "idariKurul": [{"name": "Hande Eski"}, {"name": "Bora Bozmanoğlu"}, {"name": "Doğay Balaman"}, {"name": "Onur Cem Şahin"}]
+    },
+
+
+    "enet": {
+        "fullname": "Entrepreneurship Society",
+        "imgSrc": "",
+        "about": "",
+        "idariKurul": [{"name": "Emre Kalay"}, {"name": "Zülal Özokçuoğlu"}, {"name": "Buse Ünlüeroğlugil"}]
+    },
+
+
+    "pes": {
+        "fullname": "Power & Energy Society",
+        "imgSrc": "",
+        "about": "",
+        "idariKurul": [{"name": "Doğa Kaytancı"}, {"name": "Özlem Nur Özer"}, {"name": "Ayhan Öz"}]
+    },
+
+
+    "ras": {
+        "fullname": "Robotics & Automation Society",
+        "imgSrc": "",
+        "about": "",
+        "idariKurul": [{"name": "Seyfettin Karahan"}, {"name": "Erhan Namlı"}, {"name": "Batuhan Şarman"}]
+    },
+
+
+    "wie": {
+        "fullname": "Women in Engineering",
+        "imgSrc": "",
+        "about": "",
+        "idariKurul": [{"name": "Nur Senem Aydoğan"}, {"name": "Ezgi Atasay"}, {"name": "İlke Karahan"}, {"name": "Sena Akça"}]
+    }
+}

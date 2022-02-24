@@ -257,3 +257,21 @@ body {
     font-weight:600
   }
 }
+
+
+.dropdown { 
+  z-index: 1;
+  background-color: white;
+  overflow: visible;
+}
+
+.dropdown-menu {
+  display: none;
+  position: relative;
+  z-index: 99;
+}
+
+
+.dropdown:hover .dropdown-menu {
+  display: block
+}
