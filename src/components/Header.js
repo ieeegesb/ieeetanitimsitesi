@@ -6,23 +6,21 @@ import 'bootstrap/dist/css/bootstrap.css'
 const Header = () =>
 (
     <div className="header">
+        <div className="header-left">
+            <a href="/#komitelerimiz">Komitelerimiz</a>
+            <a href="#">Projelerimiz</a>
+        </div>        
+
+        <div className="header-center">
         <Link to='/'>
             <img className="logo" src="https://edu.ieee.org/tr-deu/wp-content/uploads/sites/504/IEEE-CS_LogoTM-orange-370x113.png" alt="CS Logo" height="50px" />
         </Link>
-        {/* <a href="#default" className="logo">
-            <img src="https://edu.ieee.org/tr-deu/wp-content/uploads/sites/504/IEEE-CS_LogoTM-orange-370x113.png" alt="CS Logo" height="50px" />
-        </a> */}
+
+        </div>
+        
+        
+
         <div className="header-right">
-            <div className="dropdown">
-                <a href="/komitelerimiz">Komitelerimiz</a>
-                <div className="dropdown-menu">
-                    <a className="dropdown-item" href="/komitelerimiz/aess">AESS</a>
-                    <a className="dropdown-item" href="/komitelerimiz/cs">CS</a>
-                    <a className="dropdown-item" href="/komitelerimiz/ea">EA</a>
-                    <a className="dropdown-item" href="/komitelerimiz/edsoc">EdSoc</a>
-                </div>
-            </div>
-            <a href="#">Projelerimiz</a>
             <a href="#">Etkinliklerimiz</a>
             <a href="/#about-us">Hakkımızda</a>
         </div>

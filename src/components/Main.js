@@ -1,6 +1,7 @@
 import React from 'react'
 import {Carousel} from 'react-bootstrap'
 import AboutUs from './AboutUs'
+import CommitteesSection from './committees/CommitteesSection'
 
 export default function Main(){
   return(
@@ -42,6 +43,7 @@ export default function Main(){
       </Carousel.Item>
     </Carousel>
     <AboutUs />
+    <CommitteesSection />
     </>
   )
 }
