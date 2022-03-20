@@ -32,8 +32,8 @@
         "logoBlack": "",
         "logoWhite": "",
         "logoGray": "",
-        "aboutGlobal": "",
-        "aboutEge": "",
+        "aboutGlobal": "Educational Activities IEEE’nin bir sosyal sorumluluk komitesidir. Komitenin amacı çocukların bilime olan bakışını değiştirirken aynı zamanda deneyler yaparak neyin nasıl olduğu konusunda fikir edinmeleri sağlamak ve bu erken yaşta edindikleri kazanımların ilerde geleceklerini şekillendirmesi konusunda yardımcı olmaktır. Educational Activities çocuklara bilimi anlatan ve öğreten bir komitedir.",
+        "aboutEge": "IEEE Ege EA projeleri üç kısımdan oluşur; Project BEE: IEEE EGE EA topluluğu üyelerinin başlattığı Project BEE (Bilim Eğitim Eğlence) için planlanan üç projeyle neler yaptılar; Projenin ilk aşaması olan eğitim kategorisinde EA komitesi öncülüğünde IEEE Ege topluluğunun tüm komitelerinden katılan  mühendislik öğrencileri, beş farklı liseye mühendislik tanıtımları yaptılar. İkinci kısım olarak bilim kategorisinde ortaokullardaki öğrencilerle fen deneyleri yapıp, bu konuda çocuklara bilinç katmayı amaçladılar. Üçüncü ve son kısım olarak eğlence kategorisinde YouTube için, evde yapılabilecek bilim deneyleri videoları çektiler. Youtube kanallarında bu videoları paylaştılar. Anaokulu Bilim Deneyleri: Bilim günümüz dünyasında hayatın her yerinde ve her kesiminde bulunan bir yöntem olduğundan dolayı çocuk yaşta bu yöntemle karşılaşması, tanışması ve sorunlarını çözmede bilimi kullanmayı öğrenmesi bir toplumu ileriye taşıyacak en önemli etkenlerden biridir. Bu yüzden bu proje ile amacımız çocuk yaştaki arkadaşlarımızı bilimi en somut şekilde yaşayabilecekleri yol olan deneylerle karşı karşıya getirmek. Hour Of Code: İlkokul yaş grubundaki çocukların algoritmaya ilgisini arttırmak ve algoritma temelleri atmak için oyunlar yoluyla çocukların bilgisayar bilimlerinde gelişimini arttırmaya yönelik hedefi olan bir etkinliktir.",
         "idariKurul": [{"name": "Taha Eren Çavdar"}, {"name": "Elif İlayda Melemez"}]
     },
 
@@ -71,8 +71,8 @@
         "logoBlack": "",
         "logoWhite": "",
         "logoGray": "",
-        "aboutGlobal": "",
-        "aboutEge": "",
+        "aboutGlobal": "IEEE ENET; insanlığın yararına girişimci mühendisliği ve teknolojik yeniliği teşvik etmek amacıyla kurulmuştur. Girişimcilik ve iş geliştirmenin yanı sıra; duygusal yeteneklerin ve yönetim becerilerinin gelişmesine olanak sağlayacak konularda ilgilenmektedir.",
+        "aboutEge": "IEEE Ege ENET; IEEE Egw Öğrenci Kolu bünyesindeki üyelere, gelecekteki iş dünyasında aktif olacakları görevlerinde veya sorumluluklarında girişimci, lider ruhlu, teknik yeteneklerinin yanı sıra yönetici bakış açısından görebilen sosyal zekası kuvvetli bireyler olabilmeleri için çeşitli atölyeler, vaka analizleri, konferanslar ve deneyim sohbetleri düzenlemektedir. Start-up, iş planı, yönetim, finans, patent hakları, risk ve kriz yönetimi gibi konularda uzmanlaşarak, IEEE Ege ailesine sosyal yeteneklerin ve duygusal zekanın gelişimi konusunda destek olmaktadır.",
         "idariKurul": [{"name": "Emre Kalay"}, {"name": "Zülal Özokçuoğlu"}, {"name": "Buse Ünlüeroğlugil"}]
     },
 
@@ -84,8 +84,8 @@
         "logoBlack": "",
         "logoWhite": "",
         "logoGray": "",
-        "aboutGlobal": "",
-        "aboutEge": "",
+        "aboutGlobal": "Power & Energy Society (PES), elektrik enerjisi endüstrisindeki en son teknolojik gelişmeleri paylaşmak, ekipman ve sistemlerin geliştirilmesine ve inşasına rehberlik eden standartlar geliştirmek ve endüstri üyelerini ve genel toplumu eğitmek için dünyanın en büyük forumunu sağlar. Bu amaç üzerine konferans ve toplantılar, yayınlar, eğitimler ve teknik faaliyetler yapar.",
+        "aboutEge": "IEEE Ege Öğrenci Kolu bünyesinde bulunan IEEE Ege PES, Ege Bölgesi içerisinde sektörde öncü ve sektöre yardımcı olmaya çalışır. Enerji sektöründe ilerlemeyi hedefleyen ve “Enerji” alanına ilgi duyan üyelerini bilgiye en kolay yoldan ulaştırmayı ve sektöre kazandırmayı amaçlar. Dünyadaki enerji problemine sürdürülebilir çözümler getiren, insanlığa katkı sağlama bilincini tetikleyen bir oluşumdur. Bu amaç uğruna çeşitli salon etkinlikleri: İzmir Enerji Zirvesi’17 (Siemens, Enercon, E.Ü Nükleer Enerji Enstitüsü...), İzmir Enerji Zirvesi’18 (İzmir Kalkınma Ajansı, Schneider Electric,  JESDER,Klemsan…), İzmir Enerji Zirvesi’19 (Aselsan, Ford, Petkim, Xgen, Onur Enerji, İzgören Akademi…), İzmir Enerji Zirvesi’20 (Aselsan, Aspilsan, Roketsan, Mutlu Akü, TUSAŞ, Zorlu Enerji, Siemens Gamesa, Anadolu Ajansı, GDZ, E.Ü Güneş Enerjisi Enstitüsü, Tüpraş...), İzmir Enerji Zirvesi’21 (GDZ,TEMSA, TEHAD, E-Şarj Mobility, FNSS IOGENICS…), Enerji 5.0 Etkinliği (Avrupa Birliği projesi olan BEST For Energy tarafından desteklenmiştir); tea talklar ve webinarlar, teknik projeler ve teknik geziler düzenledik.",
         "idariKurul": [{"name": "Doğa Kaytancı"}, {"name": "Özlem Nur Özer"}, {"name": "Ayhan Öz"}]
     },
 
@@ -97,8 +97,8 @@
         "logoBlack": "",
         "logoWhite": "",
         "logoGray": "",
-        "aboutGlobal": "",
-        "aboutEge": "",
+        "aboutGlobal": "IEEE RAS; robotik, elektrik, elektronik, yazılım, mekatronik, otomasyon sektörleri başta olmak üzere  bu sektörlerdeki gelişmelere eşlik ederek çeşitli projeler yapmayı ve teorik olarak öğrenilen bilgilerin uygulanarak saha tecrübesi edinilmesini amaçlayan teknik ağırlıklı bir komitedir.",
+        "aboutEge": "Bu dönem IEEE Ege RAS olarak her üye en az bir projede bulunacak şekilde Teknofest'e katılmak üzere Tarımsal İnsansız Kara Aracı (TİKA), Akıllı Ev Sistemleri, IoT Projeleri yapıyoruz. Ayrıca bu dönem ilki olacak EgeRun adlı yarışmamızı düzenlemeyi planlıyoruz. Bu yarışmanın amacı hem robotik programlamaya yeni giriş yapmış kişilerin kendini test etmesi hem de Teknofest'te Robotik Yarışmalar alanındaki Tasarla-Çalıştır'a katılacak olan ekipler için ön hazırlık olması amaçlanmaktadır. Yarışmada birbirinden eğlenceli robotik yarışmalar olması planlanmaktadır. Bu proje ve yarışmalar için IEEE Ege EdSoc ortaklığıyla Arduino Giriş Eğitimi, IoT Eğitimi ve Python ile Yapay Zekaya Giriş eğitimleri düzenledik.",
         "idariKurul": [{"name": "Seyfettin Karahan"}, {"name": "Erhan Namlı"}, {"name": "Batuhan Şarman"}]
     },
 
