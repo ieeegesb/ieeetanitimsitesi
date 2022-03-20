@@ -5,7 +5,7 @@
         "logoColor": "src\\images\\aess.color.svg",
         "logoBlack": "src\\images\\aess.black.svg",
         "logoWhite": "src\\images\\aess.white.svg",
-        "logoGray": "src\\images\\aess.gray.svg",
+        "logoGray": "../images/aess.gray.svg",
         "aboutGlobal": "",
         "aboutEge": "",
         "idariKurul": [{"name": "Sedat Kasımoğlu"}, {"name": "Ozan Okumuş"}, {"name": "Furkan Çağatay Ekinci"}]
@@ -18,10 +18,10 @@
         "logoColor": "",
         "logoBlack": "",
         "logoWhite": "",
-        "logoGray": "",
+        "logoGray": "/src/images/cs.gray.svg",
         "aboutGlobal": "Computer Society (CS); IEEE’nin özellikle bilgisayar bilimlerine odaklanan komitesidir. Bu komitenin amacı, bilgisayar bilimi ve teknolojileri teorisini, pratiğini ve uygulamasını ileriye taşımak; üyelerini ve topluluğu bu alanda geliştirmek ve bilinçlendirmektir.",
         "aboutEge": "",
-        "idariKurul": [{"name": "Alen Babayiğit"}, {"name": "Muhammet Şancı"}]
+        "idariKurul": [{"name": "Alen Babayiğit"}]
     },
 
 
@@ -45,8 +45,8 @@
         "logoBlack": "",
         "logoWhite": "",
         "logoGray": "",
-        "aboutGlobal": "IEEE Education Society (EdSoc); IEEE'nin ilgilendiği alanlarda etkin alan bilgisi sağlamak için gereken eğitim ve öğretim teknolojisi teorisi ve uygulamasına odaklanan IEEE'nin bir komitesidir. Toplum, mühendislik eğitimi ile ilgili bilgi ve kaynaklarla, akademi ve endüstri içinde mesleki gelişimle ilgilenen uluslararası bir kuruluştur. IEEE Ege Education Society, çevresindeki teknik bilgi eksiğini kapatmak, gelecekte üreteceğimiz ürünlere altyapı oluşturmak ve üretebilen, bilgi düzeyi olarak kendine güvenen bir nesil elde etme amacıyla kurulmuş bir komitedir. Bu bağlamda IEEE Ege Topluluğumuzun eğitimlerini bu komite organize etmektedir. Eğitimlere ek olarak bu sene 2.sini düzenleyecekleri, ilkinde “THY, SOCAR Türkiye, Tchibo” gibi çeşitli büyük firmaların katılım sağladığı “Aramadı Demesinler” adlı eğitim serisi ve mülakat simülasyonu konferans etkinliği vardır. ",
-        "aboutEge": "",
+        "aboutGlobal": "IEEE Education Society (EdSoc); IEEE'nin ilgilendiği alanlarda etkin alan bilgisi sağlamak için gereken eğitim ve öğretim teknolojisi teorisi ve uygulamasına odaklanan IEEE'nin bir komitesidir. Toplum, mühendislik eğitimi ile ilgili bilgi ve kaynaklarla, akademi ve endüstri içinde mesleki gelişimle ilgilenen uluslararası bir kuruluştur.",
+        "aboutEge": "IEEE Ege Education Society, çevresindeki teknik bilgi eksiğini kapatmak, gelecekte üreteceğimiz ürünlere altyapı oluşturmak ve üretebilen, bilgi düzeyi olarak kendine güvenen bir nesil elde etme amacıyla kurulmuş bir komitedir. Bu bağlamda IEEE Ege Topluluğumuzun eğitimlerini bu komite organize etmektedir. Eğitimlere ek olarak bu sene 2.sini düzenleyecekleri, ilkinde “THY, SOCAR Türkiye, Tchibo” gibi çeşitli büyük firmaların katılım sağladığı “Aramadı Demesinler” adlı eğitim serisi ve mülakat simülasyonu konferans etkinliği vardır.",
         "idariKurul": [{"name": "Simge Keskin"}, {"name": "Sezin Güngen"}, {"name": "Tolga Halıcıoğlu"}]
     },
 
@@ -57,7 +57,7 @@
         "logoColor": "",
         "logoBlack": "",
         "logoWhite": "",
-        "logoGray": "",
+        "logoGray": "'../images/cs.gray.svg'",
         "aboutGlobal": "Engineering in Medicine and Biology Society (EMBS); biyolojik, tıbbi ve sağlık sorunlarına etkili çözümler sağlamak için mühendislik kavram ve yöntemlerinin biyoloji, tıp ve sağlık bilimlerinde geliştirilmesi ve uygulanması amacıyla kurulmuş bir komitedir.",
         "aboutEge": "IEEE EGE EMBS olarak geçen sene İzmir’in en büyük biyoteknoloji konferansı olan Biotech İzmir’i gerçekleştirdik. Sektörden Nobel ilaç, Abdi İbrahim gibi firmalar yer alırken; Koç, Hacettepe, Ege, Frayburg Üniversitelerinden ve Harvard MIT ‘den  alanında uzman kişiler konuşmacı olarak katıldılar. Farklı dallarda Teknofest yarışmalarına katıldık . Alanında uzman kişiler ile webinarlar gerçekleştirdik. Mezunlarımızla Tea Talklar düzenledik. Üyelerimiz ile spektrofotometre, eeg cihazı ve nabız ölçer yaptık.  IEEE EGE EMBS olarak sağlık, biyoloji ve mühendislik alanlarında kendimizi geliştirmeye devam ediyoruz.",
         "idariKurul": [{"name": "Hande Eski"}, {"name": "Bora Bozmanoğlu"}, {"name": "Doğay Balaman"}, {"name": "Onur Cem Şahin"}]

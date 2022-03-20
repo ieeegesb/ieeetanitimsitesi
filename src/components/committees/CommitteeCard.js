@@ -1,21 +1,23 @@
-import React from 'react'
+import React from 'react';
 import "bootstrap/dist/css/bootstrap.css";
+// import csBlack from '.../src/images/csBlack.svg';
+import CSLogo from '../images/cs.gray.svg';
 
-const CommitteeCard = ({props}) => {
+const CommitteeCard = ({ props }) => {
+
+  // console.log(props.logoBlack);
   return (
-    <div className="col col-lg-4">
-        <div className="card h-100">
-            <h2 className="card-title text-center">{props.shortname}</h2>
-            <h6 className="text-center">{props.fullname}</h6>
+    <div className="col col-lg-4 deneme">
+      <div className="card h-100">
+
+        <h3>{props.fullname}</h3>
+        <a href={"/" + props.shortname.toLowerCase()} ><img src={CSLogo} alt={props.shortname} className="deneme" /></a>
 
 
-            <img src={props.logoGray} alt={props.shortname} />
-            <a href={"/" + props.shortname.toLowerCase()} className="btn btn-primary">Go to Commitee Page</a>
-           
-          
 
-            <button className="btn btn-danger">{props.fullname}</button>
-        </div>
+
+
+      </div>
     </div>
   )
 }

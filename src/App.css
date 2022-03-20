@@ -1,3 +1,6 @@
+* {
+  font-family: 'Century Gothic' sans-serif;
+}
 .App {
   text-align: center;
 }
@@ -48,11 +51,32 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
-  padding: 20px 10px;
+  background-color: #ffffff;
+  margin: 10px auto;
 }
 
-.header a {
+.header ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+  padding: 20px 0;
+  
+}
+.header a{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.5em; 
+  line-height: 25px;
+  font-weight: bolder;
+  font-family: 'Century Gothic' monospace;
+  transition: 0.4s;
+}
+.col h1{
+  padding-top: 40px;
+}
+/* .header a {
   float: left;
   color: black;
   text-align: center;
@@ -82,6 +106,8 @@ body {
   float: right;
 }
 
+
+
 @media screen and (max-width: 720px) {
   .header a {
     float: none;
@@ -92,7 +118,7 @@ body {
   .header-right {
     float: none;
   }
-}
+} */
 /* footer */
 .site-footer
 {
@@ -274,4 +300,9 @@ body {
 
 .dropdown:hover .dropdown-menu {
   display: block
+}
+
+.deneme {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
