@@ -8,30 +8,33 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-sm-12 col-md-6">
-                        <h6>About</h6>
+                        <h6>Hakkımızda</h6>
                         <p className="text-justify">IEEE Ege topluluğu 2010 yılında kuruldu. CS, RAS, WIE komiteleri kurulduktan sonra faaliyetlerine başlayan topluluk, 2016-2017 döneminin başında enerji sektörü ile bağlantılarını güçlendirmek adına PES’i kurdu. 2017-2018 döneminin başında birçok alanda eğitim vermek üzere EdSoc’u kurdu. 2018-2019 döneminde bünyesine iki yeni komite daha ekledi. Bunlar; AESS ve EMBS. 2021 yılında da girişimcilik mühendisliği üzerine etkinlikler yapan ENET komitemiz kurulmuştur. IEEE Ege olarak teknik, pratik eğitimler, konferanslar, paneller, zirveler düzenliyoruz. Ege Üniversitesi’ne, İzmir’e, Ege Bölgesi’ne ve ülkeye değer katmak için geleceğin adayları gençler olarak daima çalışıyoruz.</p>
                     </div>
 
                     <div className="col-xs-6 col-md-3">
-                        <h6>Categories</h6>
+                        <h6>Komitelerimiz</h6>
                         <ul className="footer-links">
-                            <li><a href="#">C</a></li>
-                            <li><a href="#">UI Design</a></li>
-                            <li><a href="#">PHP</a></li>
-                            <li><a href="#">Java</a></li>
-                            <li><a href="#">Android</a></li>
-                            <li><a href="#">Templates</a></li>
+                            <li><a href="/aess">AESS</a></li>
+                            <li><a href="/cs">CS</a></li>
+                            <li><a href="/ea">EA</a></li>
+                            <li><a href="/embs">EMBS</a></li>
+                            <li><a href="/enet">ENET</a></li>
+                            <li><a href="/pes">PES</a></li>
+                            <li><a href="/ras">RAS</a></li>
+                            <li><a href="/wie">WIE</a></li>
                         </ul>
                     </div>
 
                     <div className="col-xs-6 col-md-3">
-                        <h6>Quick Links</h6>
+                        <h6>Navigasyon</h6>
                         <ul className="footer-links">
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Contact Us</a></li>
-                            <li><a href="#">Contribute</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Sitemap</a></li>
+                            <li><a href="/#">Anasayfa</a></li>
+                            <li><a href="/#about-us">Hakkımızda</a></li>
+                            <li><a href="/#komitelerimiz">Komitelerimiz</a></li>
+                            <li><a href="#">Projelerimiz</a></li>
+                            <li><a href="#">Etkinliklerimiz</a></li>
+                            <li><a href="/dev">Geliştirici Ekibimiz</a></li>
                         </ul>
                     </div>
                 </div>
