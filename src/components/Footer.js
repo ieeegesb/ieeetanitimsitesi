@@ -34,7 +34,7 @@ const Footer = () => {
                             <li><a href="/#komitelerimiz">Komitelerimiz</a></li>
                             <li><a href="#">Projelerimiz</a></li>
                             <li><a href="#">Etkinliklerimiz</a></li>
-                            <li><a href="/dev">Geliştirici Ekibimiz</a></li>
+                            <li><a href="/developers">Geliştirici Ekibimiz</a></li>
                         </ul>
                     </div>
                 </div>

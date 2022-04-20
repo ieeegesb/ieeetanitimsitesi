@@ -6,6 +6,7 @@ import Main from './components/Main';
 import { Routes, Route } from 'react-router-dom'
 import CommitteePage from './components/committees/CommitteePage';
 import committees from './components/committees/committees.json';
+import DeveloperTeam from './components/DeveloperTeam';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Header />
       <Routes>
         <Route path='/' element={<Main />} /> 
+        <Route path='/developers' element={<DeveloperTeam />} /> 
         <Route path="/aess" element={<CommitteePage
           props={committees.aess}
         />} />
