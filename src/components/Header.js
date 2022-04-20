@@ -9,24 +9,24 @@ const Header = () =>
 (
     <div className="container">
         <div className="header">
-        <ul>
-            <li><a href="/#komitelerimiz">Komitelerimiz</a></li>
-            <li><a href="#">Projelerimiz</a></li>
-                
-            
+            <ul>
+                <li><a href="/#komitelerimiz">Komitelerimiz</a></li>
+                <li><a href="#">Projelerimiz</a></li>
 
-            
-            <li>
-                <a>
-                    <img className="logo" src={IEEELogo} alt="IEEE Logo" height="50px" />
-                </a>
-            </li>
 
-            <li><a href="#">Etkinliklerimiz</a> </li>
-            <li><a href="/#about-us">Hakkımızda</a></li>
-        </ul>
 
-    </div>
+
+                <li>
+                    <a>
+                        <img className="logo" src={IEEELogo} alt="IEEE Logo" height="50px" />
+                    </a>
+                </li>
+
+                <li><a href="#">Etkinliklerimiz</a> </li>
+                <li><a href="/#about-us">Hakkımızda</a></li>
+            </ul>
+
+        </div>
 
     </div>
 )
