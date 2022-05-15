@@ -1,17 +1,14 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.css";
 
-
-
 const CommitteeCard = ({ props }) => {
  
   return (
     <div className="col col-lg-4 deneme">
-      <div className="card h-100">
+      <div className="card h-100" style={{borderWidth:  2,  borderStyle:  'solid', borderColor: 'black' }}>
 
         <h3>{props.fullname}</h3>
-        <a href={"/" + props.shortname} ><img src={require(`../images/${props.shortname}Black.png`)} alt={props.shortname} className="deneme" width="175px" /></a>
-
+        <a href={"/" + props.shortname} ><img src={require(`../images/${props.shortname}.png`)} alt={props.shortname} className="committee-img"  /></a>
       </div>
     </div>
   )

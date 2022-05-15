@@ -7,7 +7,7 @@ const Header = () =>
         <div className="header">
             <ul>
                 <li><a href="/#komitelerimiz">Komitelerimiz</a></li>
-                <li><a href="/#">Projelerimiz</a></li>
+                <li><a href="/soon">Projelerimiz</a></li>
 
                 <li>
                     <a href="/#">
@@ -15,7 +15,7 @@ const Header = () =>
                     </a>
                 </li>
 
-                <li><a href="/#">Etkinliklerimiz</a> </li>
+                <li><a href="/soon">Etkinliklerimiz</a> </li>
                 <li><a href="/#about-us">Hakkımızda</a></li>
             </ul>
 
