@@ -1,6 +1,6 @@
 import React from 'react'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebook, faInstagram, faLinkedin, faTwitter  } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faInstagram, faLinkedin, faTwitter, faYoutube  } from '@fortawesome/free-brands-svg-icons';
 
 const Footer = () => {
     return (
@@ -60,6 +60,9 @@ const Footer = () => {
                             </li>
                             <li>
                                 <a className="instagram" href="https://www.instagram.com/ieeeegesb/" target="_blank"><FontAwesomeIcon icon={faInstagram} /></a>
+                            </li>
+                            <li>
+                                <a className="youtube" href="https://www.youtube.com/channel/UC7xZXbbjVN89xlnHWe-AJVQ" target="_blank"><FontAwesomeIcon icon={faYoutube} /></a>
                             </li>
                         
                         </ul>
