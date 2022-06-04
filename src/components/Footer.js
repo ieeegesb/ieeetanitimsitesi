@@ -50,19 +50,19 @@ const Footer = () => {
                     <div className="col-md-4 col-sm-6 col-xs-12">
                         <ul className="social-icons">  
                             <li>
-                                <a className="facebook" href="https://www.facebook.com/IEEEegesb/" target="_blank"><FontAwesomeIcon icon={faFacebook} /></a>
+                                <a className="facebook" href="https://www.facebook.com/IEEEegesb/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faFacebook} /></a>
                             </li>
                             <li>
-                                <a className="twitter" href="https://twitter.com/ieeeegesb" target="_blank"><FontAwesomeIcon icon={faTwitter} /></a>
+                                <a className="twitter" href="https://twitter.com/ieeeegesb" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faTwitter} /></a>
                             </li>
                             <li>
-                                <a className="linkedin" href="https://www.linkedin.com/company/ieee-ege-student-branch/mycompany/" target="_blank" ><FontAwesomeIcon icon={faLinkedin} /></a>
+                                <a className="linkedin" href="https://www.linkedin.com/company/ieee-ege-student-branch/mycompany/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a>
                             </li>
                             <li>
-                                <a className="instagram" href="https://www.instagram.com/ieeeegesb/" target="_blank"><FontAwesomeIcon icon={faInstagram} /></a>
+                                <a className="instagram" href="https://www.instagram.com/ieeeegesb/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} /></a>
                             </li>
                             <li>
-                                <a className="youtube" href="https://www.youtube.com/channel/UC7xZXbbjVN89xlnHWe-AJVQ" target="_blank"><FontAwesomeIcon icon={faYoutube} /></a>
+                                <a className="youtube" href="https://www.youtube.com/channel/UC7xZXbbjVN89xlnHWe-AJVQ" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faYoutube} /></a>
                             </li>
                         
                         </ul>

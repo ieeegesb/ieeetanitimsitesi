@@ -5,7 +5,7 @@ function Slider() {
   return (
     <Carousel id="etkinliklerimiz">
       <Carousel.Item interval={3000}>
-      <a href="https://www.youtube.com/watch?v=RM_C2DGwfNw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RM_C2DGwfNw" target="_blank" rel="noreferrer">
         <img
             className="d-block w-100"
             src={require("../components/images/slider/accessIT.png")}
@@ -19,7 +19,7 @@ function Slider() {
 
 
       <Carousel.Item interval={3000}>
-      <a href="https://www.youtube.com/watch?v=UKqYABIgtIY&t=80s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UKqYABIgtIY&t=80s" target="_blank" rel="noreferrer">
         <img
         className="d-block w-100"
         src={require("../components/images/slider/biotech.png")}
@@ -33,7 +33,7 @@ function Slider() {
 
 
       <Carousel.Item interval={3000}>
-      <a href="https://www.youtube.com/watch?v=hN9fnz1Wias" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hN9fnz1Wias" target="_blank" rel="noreferrer">
         <img
         className="d-block w-100"
         src={require("../components/images/slider/isHayatindaKelebekEtkisi.png")}
@@ -47,7 +47,7 @@ function Slider() {
 
 
       <Carousel.Item interval={3000}>
-      <a href="https://www.instagram.com/ieeepesege/?hl=en" target="_blank">
+      <a href="https://www.instagram.com/ieeepesege/?hl=en" target="_blank" rel="noreferrer">
         <img
         className="d-block w-100"
         src={require("../components/images/slider/enerji50.png")}
