@@ -15,7 +15,7 @@ const Header = () =>
                     </a>
                 </li>
 
-                <li><a href="/soon">Etkinliklerimiz</a> </li>
+                <li><a href="/#etkinliklerimiz">Etkinliklerimiz</a> </li>
                 <li><a href="/#about-us">Hakkımızda</a></li>
             </ul>
 

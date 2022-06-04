@@ -366,6 +366,76 @@ body {
   margin-top: 10px;
 }
 
-/* .container {
-  text-align: center;
-} */
+.container-ge {
+  width: 60vw;
+  margin: 1em auto;
+  border: 4px solid gray;
+  border-radius: 4em;
+}
+.container-ge > * + * {
+  margin-left: 1.5em;
+  margin-top: 0;
+}
+.flex-ge {
+  display: flex;
+  padding: 1.7em;
+  align-items: stretch;
+}
+.flex1-ge {
+  flex: 1;
+}
+.flex2-ge {
+  flex: 2;
+}
+.img-ge {
+  display: block;
+  width: calc(10vw + 7.5em);
+  border-radius: 15em;
+  margin: 0 auto;
+  border: 4px solid rgb(253, 253, 253);
+}
+.developer-name-ge {
+  font-size: calc(1.8rem + .7vw);
+  line-height: 1.3em;
+  padding-bottom: .5em;
+}
+.content-ge {
+  font-size: calc(.5rem + .7vw);
+  line-height: 1.3em;
+  text-align: justify;
+  color: white;
+}
+.content-ge > p {
+  font-family: monospace;
+}
+
+.bg-ge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: 300% 300%;
+  background-image: linear-gradient(
+          -45deg, 
+          rgb(0, 34, 128) 0%, 
+          rgb(3, 30, 165) 25%, 
+          rgb(31, 33, 66) 51%, 
+          rgb(6, 78, 111) 100%
+  );  
+  animation: AnimateBG 20s ease infinite;
+  }
+
+  @keyframes AnimateBG { 
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+
+.carousel-control-next-icon {
+  height: 100px !important;
+  width: 100px !important;
+}
+
+.carousel-control-prev-icon {
+  height: 100px !important;
+  width: 100px !important;
+}

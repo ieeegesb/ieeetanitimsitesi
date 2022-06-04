@@ -1,49 +1,14 @@
-import React from 'react'
-import {Carousel} from 'react-bootstrap'
-import AboutUs from './AboutUs'
-import CommitteesSection from './committees/CommitteesSection'
+import React from 'react';
+import Slider from './Slider';
+import AboutUs from './AboutUs';
+import CommitteesSection from './committees/CommitteesSection';
 
-export default function Main(){
-  return(
+export default function Main() {
+  return (
     <>
-    <Carousel>
-      <Carousel.Item interval={3000}>
-      <img
-      className="d-block w-100"
-      src="https://dummyimage.com/600x200/000/fff"
-      alt="First slide"
-    />
-      <Carousel.Caption>
-        <h3>Deneme 1</h3>
-      </Carousel.Caption>
-      </Carousel.Item>
-
-
-      <Carousel.Item interval={3000}>
-      <img
-      className="d-block w-100"
-      src="https://dummyimage.com/600x200/000/fff"
-      alt="First slide"
-    />
-      <Carousel.Caption>
-        <h3>Deneme 2</h3>
-      </Carousel.Caption>
-      </Carousel.Item>
-
-
-      <Carousel.Item interval={3000}>
-      <img
-      className="d-block w-100"
-      src="https://dummyimage.com/600x200/000/fff"
-      alt="First slide"
-    />
-      <Carousel.Caption>
-        <h3>Deneme 3</h3>
-      </Carousel.Caption>
-      </Carousel.Item>
-    </Carousel>
-    <AboutUs />
-    <CommitteesSection />
+      <Slider />
+      <AboutUs />
+      <CommitteesSection />
     </>
   )
 }
