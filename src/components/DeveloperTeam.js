@@ -139,7 +139,7 @@ const DeveloperTeam = () =>
         <div class="container-ge flex-ge bg-ge">
             <div class="flex1-ge">
                 <div>
-                    <img class="img-ge" src="https://picsum.photos/300/300" alt="" />
+                    <img class="img-ge" src={require("../components/images/developers/serapaltunbulak.jpg")} alt="Serap" />
                 </div>
             </div>
             <div class="flex2-ge content-ge">
@@ -148,7 +148,7 @@ const DeveloperTeam = () =>
                 </div>
                 <div class="content-ge">
                     <p>
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus aliquid, reiciendis dolores at eius exercitationem voluptatibus eligendi qui, doloremque eveniet fuga ullam nemo perspiciatis quibusdam sint enim sunt impedit porro molestiae odit nam dolorem tempora. Placeat omnis quisquam, recusandae odio maxime soluta consequatur magni eligendi sit necessitatibus adipisci officiis enim!
+                        Selamlar, ben Serap Altunulak. Ege Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. 2001 İstanbul doğumluyum. IEEE Ege Öğrenci Topluluğuna 2021 Ocak&#39;ta katıldım. Computer Society&#39;de görev almaktayım. Computer Society&#39;de CyberEge21&#39;de görev aldım; Data Science ekibine liderlik ettim ve Front-end ekibinde yer aldım ama en önemlisi de bu güzel ortamda bulunma şansı elde ettim:) Tüm ekip arkadaşlarıma teşekkürler;)
                     </p>
                 </div>
             </div>
