@@ -1,3 +1,1 @@
 # ieeetanitimsitesi
-
-Bora deneme
