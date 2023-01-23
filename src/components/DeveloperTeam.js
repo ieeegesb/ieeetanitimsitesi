@@ -10,7 +10,7 @@ const DeveloperTeam = () =>
                 </div>
                 <div class="content-ge">
                     <p>
-                        Ben Alen Babayiğit. 14 Mart 2001'de Antalya'da doğdum. Ege Üniversitesinde Bilgisayar Mühendisliği okuyorum. Bu bölümü okurken kendimi geliştirmem gerektiğini düşündüm ve kendimi IEEE Ege Öğrenci Kulübü'nde buldum. Bir dönem Computer Society üyesi olduktan sonra Computer Society başkanlığı görevini üstlendim. Başkanlık yaptığım 21-22 döneminde 2 Tea Talk, IEEE Ege EA ortaklığıyla Hour of Code etkinliği ve yepyeni bir sosyal etkinlik olan Access IT'ye imza attık.
+                        Ben Alen Babayiğit. 14 Mart 2001'de Antalya'da doğdum. Ege Üniversitesinde Bilgisayar Mühendisliği okuyorum. Bu bölümü okurken kendimi geliştirmem gerektiğini düşündüm ve kendimi IEEE Ege Öğrenci Topluluğu'nda buldum. Bir dönem Computer Society üyesi olduktan sonra Computer Society başkanlığı görevini üstlendim. Başkanlık yaptığım 21-22 döneminde 2 Tea Talk, IEEE Ege EA ortaklığıyla Hour of Code etkinliği ve yepyeni bir sosyal etkinlik olan Access IT'ye imza attık.
                         <br />
                         <br />
                         Başkanlık yaptığım dönemde komitemizde teknik ekipler kuruldu. Şu anda IEEE Ege Computer Society bünyesinde devam etmekte olan Fullstack Web, Data Science ve Mobil ekiplerine ek ilk açılan Frontend ve Backend ekiplerimizden kalan arkadaşlarımla oluşturduğumuz Web Geliştirici ekibimiz ile çalışmalarımıza devam ediyoruz. Bu sitenin yapımında ekip lideri ve React Developer olarak görev aldım. Ekibime bu siteyi geliştirme yolunda beni yalnız bırakmadıkları için çok teşekkür ederim :)
@@ -23,7 +23,7 @@ const DeveloperTeam = () =>
                 </div>
             </div>
         </div>
-
+        {/*
         <div class="container-ge flex-ge bg-ge">
             <div class="flex1-ge">
                 <div>
@@ -41,7 +41,8 @@ const DeveloperTeam = () =>
                 </div>
             </div>
         </div>
-
+        */}
+        {/*
         <div class="container-ge flex-ge bg-ge">
             <div class="flex2-ge content-ge">
                 <div class="developer-name-ge">
@@ -59,7 +60,7 @@ const DeveloperTeam = () =>
                 </div>
             </div>
         </div>
-
+        */}
         <div class="container-ge flex-ge bg-ge">
             <div class="flex1-ge">
                 <div>
@@ -77,7 +78,7 @@ const DeveloperTeam = () =>
                 </div>
             </div>
         </div>
-
+        {/*
         <div class="container-ge flex-ge bg-ge">
             <div class="flex2-ge content-ge">
                 <div class="developer-name-ge">
@@ -95,7 +96,7 @@ const DeveloperTeam = () =>
                 </div>
             </div>
         </div>
-
+        */}
 
         <div class="container-ge flex-ge bg-ge">
             <div class="flex1-ge">
@@ -109,7 +110,7 @@ const DeveloperTeam = () =>
                 </div>
                 <div class="content-ge">
                     <p>
-                        Ben Ege Üniversitesi Bilgisayar Mühendisliği öğrencilerinden Gizem Duygu Sönmez. 26 Şubat 2002'de Kocaeli Gebze'de doğdum. 1. Sınıfdayken kendimi geliştirmek amacıyla katıldığım IEEE Ege Computer Society'nin Backend ve Frontend ekiplerinin aktif bir üyesiyim. Birlikte teknik alanlarda kendimizi geliştirmenin yanı sıra Access IT, Hour of Code, Tea Talk gibi sosyal etkinlikler gerçekleştirdiğimiz ıEEE Ege Computer Society ailesinde olmaktan mutluluk duyuyorum. Bu proje içerisinde React.js, Javascript ve gerektiği zamanlarda CSS kısımlarında görevler aldım.  IEEE web sitesini başarıyla gerçekleştirdiğimiz, geliştirirken beraber öğrendiğimiz ekibime teşekkür ederim :)
+                        Ben Ege Üniversitesi Bilgisayar Mühendisliği öğrencilerinden Gizem Duygu Sönmez. 26 Şubat 2002'de Kocaeli Gebze'de doğdum. 1. Sınıfdayken kendimi geliştirmek amacıyla katıldığım IEEE Ege Computer Society'nin Backend ve Frontend ekiplerinin aktif bir üyesiyim. Birlikte teknik alanlarda kendimizi geliştirmenin yanı sıra Access IT, Hour of Code, Tea Talk gibi sosyal etkinlikler gerçekleştirdiğimiz IEEE Ege Computer Society ailesinde olmaktan mutluluk duyuyorum. Bu proje içerisinde React.js, Javascript ve gerektiği zamanlarda CSS kısımlarında görevler aldım. IEEE Ege web sitesini başarıyla gerçekleştirdiğimiz, geliştirirken beraber öğrendiğimiz ekibime teşekkür ederim :)
                     </p>
                 </div>
             </div>
@@ -148,7 +149,7 @@ const DeveloperTeam = () =>
                 </div>
                 <div class="content-ge">
                     <p>
-                        Selamlar, ben Serap Altunulak. Ege Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. 2001 İstanbul doğumluyum. IEEE Ege Öğrenci Topluluğuna 2021 Ocak&#39;ta katıldım. Computer Society&#39;de görev almaktayım. Computer Society&#39;de CyberEge21&#39;de görev aldım; Data Science ekibine liderlik ettim ve Front-end ekibinde yer aldım ama en önemlisi de bu güzel ortamda bulunma şansı elde ettim:) Tüm ekip arkadaşlarıma teşekkürler;)
+                        Selamlar, ben Serap Altunbulak. Ege Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. 2001 İstanbul doğumluyum. IEEE Ege Öğrenci Topluluğuna 2021 Ocak&#39;ta katıldım. Computer Society&#39;de görev almaktayım. Computer Society&#39;de CyberEge21&#39;de görev aldım; Data Science ekibine liderlik ettim ve Front-end ekibinde yer aldım ama en önemlisi de bu güzel ortamda bulunma şansı elde ettim:) Tüm ekip arkadaşlarıma teşekkürler;)
                     </p>
                 </div>
             </div>
