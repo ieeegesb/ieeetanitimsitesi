@@ -16,11 +16,10 @@ const Footer = () => {
                         <h6>Komitelerimiz</h6>
                         <ul className="footer-links">
                             <li><a href="/aess">AESS</a></li>
+                            <li><a href="/comsoc">ComSoc</a></li>
                             <li><a href="/cs">CS</a></li>
                             <li><a href="/ea">EA</a></li>
-                            <li><a href="/edsoc">EdSoc</a></li>
                             <li><a href="/embs">EMBS</a></li>
-                            <li><a href="/enet">ENET</a></li>
                             <li><a href="/pes">PES</a></li>
                             <li><a href="/ras">RAS</a></li>
                             <li><a href="/wie">WIE</a></li>

@@ -20,6 +20,9 @@ function App() {
         <Route path="/aess" element={<CommitteePage
           props={committees.aess}
         />} />
+        <Route path="/comsoc" element={<CommitteePage
+          props={committees.comsoc}
+        />} />
 
         <Route path="/cs" element={<CommitteePage
           props={committees.cs}
@@ -29,16 +32,8 @@ function App() {
           props={committees.ea}
         />} />
 
-        <Route path="/edsoc" element={<CommitteePage
-          props={committees.edsoc}
-        />} />
-
         <Route path="/embs" element={<CommitteePage
           props={committees.embs}
-        />} />
-
-        <Route path="/enet" element={<CommitteePage
-          props={committees.enet}
         />} />
 
         <Route path="/pes" element={<CommitteePage

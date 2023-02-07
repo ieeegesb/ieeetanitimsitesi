@@ -10,5 +10,6 @@ export default function Main() {
       <AboutUs />
       <CommitteesSection />
     </>
-  )
+  )  
 }
+
