@@ -30,10 +30,13 @@ const Footer = () => {
                         <h6>Navigasyon</h6>
                         <ul className="footer-links">
                             <li><a href="/#">Anasayfa</a></li>
+                            <li><a href="/ekibimiz">Ekibimiz</a></li>
+                            <li><a href="/#etkinliklerimiz">Etkinliklerimiz</a></li>
+                            
                             <li><a href="/#about-us">Hakkımızda</a></li>
                             <li><a href="/#komitelerimiz">Komitelerimiz</a></li>
-                            <li><a href="/soon">Projelerimiz</a></li>
-                            <li><a href="/#etkinliklerimiz">Etkinliklerimiz</a></li>
+                            
+                            
                             <li><a href="/developers">Geliştirici Ekibimiz</a></li>
                         </ul>
                     </div>

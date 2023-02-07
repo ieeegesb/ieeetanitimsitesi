@@ -2,7 +2,6 @@ import React from 'react';
 import "bootstrap/dist/css/bootstrap.css";
 
 const CommitteeCard = ({ props }) => {
-  console.log(props);
   return (
     <div className="col col-lg-4 deneme">
       <div className="card h-100" style={{borderWidth:  2,  borderStyle:  'solid', borderColor: 'black' }}>

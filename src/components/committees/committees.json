@@ -1,4 +1,18 @@
 {
+    "yk": {
+        "baskan": {"name": "Alen Babayiğit", "photo":"yk1", "desc": "Ben, Alen Babayiğit. Ege Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Başkanıyım."},
+        "icisleri": {"name": "Onur Cem Şahin", "photo":"yk2", "desc": "Ben, Onur Cem Şahin. Ege Üniversitesi Makine Mühendisliği 4. Sınıf öğrencisiyim. Yönetim Kurulu İçişlerinden Sorumlu YK Başkan Yardımcısıyım."},
+        "disisleri": {"name": "Sena Akça", "photo":"yk3", "desc": "Ben, Sena Akça. Ege Üniversitesi İnşaat Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Dışişlerinden Sorumlu YK Başkan Yardımcısıyım."},
+        "sayman": {"name": "Siyabend Ürün", "photo":"yk4", "desc": "Ben, Siyabend Ürün. Ege Üniversitesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Saymanıyım."},
+        "sekreter": {"name": "Barış Can Ünal", "photo":"yk5", "desc": "Ben, Barış Can Ünal. Ege Üniversitesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Sekreteriyim."}
+    },
+
+    "dk": {
+        "dk1": {"name": "Cemre Okumuş", "photo":"dk1", "desc": "Ben, Cemre Okumuş. Ege Üniversitesi Tekstil Mühendisliği 4. Sınıf öğrencisiyim. IEEE Ege Denetim Kurulu Üyesiyim."},
+        "dk2": {"name": "Taha Eren Çavdar", "photo":"dk2", "desc": "Ben, Taha Eren Çavdar. Ege Üniversitesi Matematik Bölümü 6. Sınıf öğrencisiyim. IEEE Ege Denetim Kurulu Üyesiyim."},
+        "dk3": {"name": "Tolga Halıcıoğlu", "photo":"dk3", "desc": "Ben, Tolga Halıcıoğlu. Ege Üniversitesi Matematik Bölümü 6. Sınıf öğrencisiyim. IEEE Ege Denetim Kurulu Üyesiyim."}
+    },
+
     "aess": {
         "shortname": "aess" ,
         "fullname": "Aerospace & Electronic Systems Society",
