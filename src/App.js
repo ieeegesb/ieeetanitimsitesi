@@ -18,6 +18,7 @@ function App() {
         <Route path='/' element={<Main />} /> 
         <Route path='/developers' element={<DeveloperTeam />} /> 
         <Route path='/ekibimiz' element={<Crew />} /> 
+        <Route path='/soon' element={<ComingSoon />} />
         <Route path="/aess" element={<CommitteePage
           props={committees.aess}
         />} />
