@@ -1,12 +1,12 @@
 import React from 'react';
 
-function ComingSoon() {
+function NotFound() {
   return (
     <div className='center-soon'>
-      <p className="Soon hazard-border">ÇOK YAKINDA</p>
+      <p className="Soon hazard-border">404 Not Found</p>
       <img src={require("../components/images/coming-soon.png")} alt="" width="500px"/>
     </div>
   );
 }
 
-export default ComingSoon;
+export default NotFound;

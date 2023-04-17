@@ -9,7 +9,7 @@ const CommitteesSection = () => {
             <div id="komitelerimiz" className="container">
                 <h1 className="about-us-head" >Komitelerimiz</h1>
                 <div className="container cont">
-                    <div className="row justify-content-md-center p-3">
+                    <div className="row justify-content-md-center">
                         <CommitteeCard props={committees.aess} />
                         <CommitteeCard props={committees.comsoc} />
                         <CommitteeCard props={committees.cs} />

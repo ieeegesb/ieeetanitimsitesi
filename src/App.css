@@ -17,9 +17,9 @@ body {
 
 .header {
     overflow: hidden;
-    background-color: #ffffff;
-    margin: 10px auto;
+    background-color: white;
 }
+
 
 .header ul {
     list-style: none;
@@ -42,7 +42,8 @@ body {
 }
 
 .col {
-    padding-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .row {
@@ -56,15 +57,15 @@ body {
     }
 
     .col {
-        padding-top: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         width: 100%;
     }
 }
 
-.bigger {
+.about-us-text {
     font-size: calc(.5vw + 0.7em);
     text-align: justify;
-    
     padding-right: 3%;
 }
 
@@ -287,6 +288,7 @@ body {
         margin-right: 0;
         font-weight: 600
     }
+
 }
 
 .text-justify {
@@ -297,12 +299,20 @@ body {
 .committee-img {
     padding-top: 20px;
     padding-bottom: 20px;
-    width: 225px;
+    width: 230px;
+    height: 230px;
+    object-fit: contain;
     transition: transform 750ms ease-in-out;
 }
 
 .committee-img:hover {
     transform: scale(1.2);
+}
+
+@media (max-width:1200px) {
+    .committee-img:hover {
+        transform: scale(1.1);
+    }
 }
 
 .committee-page-div {
@@ -459,6 +469,8 @@ body {
     align-items: stretch;
 }
 
+
+
 .flex1-ge {
     flex: 1;
 }
@@ -529,7 +541,54 @@ body {
     width: 100px !important;
 }
 
+@media (max-width:1000px) {
+    .flex-ge {
+        flex-direction: column;
+    }
+    .carousel-control-next-icon {
+        height: 50px !important;
+        width: 50px !important;
+    }
+    
+    .carousel-control-prev-icon {
+        height: 50px !important;
+        width: 50px !important;
+    }
+    
+}
+
+  
+  
+
+.slider-text {
+    background-color: rgba(25, 25, 25, 0.6);
+    display: inline-block;
+    padding: 10px;
+    font-size: calc(1vw + 0.7em);
+}
+
 
 .about-us-head{
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e5ebff;
+    border-radius: .2em;
+    border-bottom: 2px solid black;
+    padding: .1em;
 }
+
+.col > .committee-card{
+    border: none;
+    border-radius: 2em;
+    -webkit-box-shadow: 0px 0px 40px -11px rgba(0,0,0,1);
+-moz-box-shadow: 0px 0px 40px -8px rgba(0,0,0,1);
+box-shadow: 0px 0px 30px -15px rgb(58, 58, 58);
+    transition: .5s;
+}
+.col > .committee-card:hover{
+    box-shadow: 0px 0px 30px -8px rgb(0, 0, 0);    transition: .5s;
+    font-weight: bold;
+}
+
+
+
+/* style={{borderWidth:  2,  borderStyle:  'solid', borderColor: 'black' }} */

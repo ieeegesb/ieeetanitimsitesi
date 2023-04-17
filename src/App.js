@@ -7,7 +7,7 @@ import { Routes, Route } from 'react-router-dom'
 import CommitteePage from './components/committees/CommitteePage';
 import committees from './components/committees/committees.json';
 import DeveloperTeam from './components/DeveloperTeam';
-import ComingSoon from './components/ComingSoon';
+import NotFound from './components/NotFound';
 import Crew from './components/Crew';
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
         <Route path='/' element={<Main />} /> 
         <Route path='/developers' element={<DeveloperTeam />} /> 
         <Route path='/ekibimiz' element={<Crew />} /> 
-        <Route path='/soon' element={<ComingSoon />} />
+        <Route path='*' element={<NotFound />} />
         <Route path="/aess" element={<CommitteePage
           props={committees.aess}
         />} />
