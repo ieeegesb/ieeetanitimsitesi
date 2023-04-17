@@ -5,13 +5,13 @@ const CommitteePage = ({ props }) => {
     <div className="container">
 
       <div className="committee-page-div">
-        <img src={require(`../images/${props.shortname}.png`)} alt={props.fullname} className="committee-page-img" />
+        <img src={require(`../images/${props.shortname.toLowerCase()}.png`)} alt={props.fullname} className="committee-page-img" />
       </div>
 
-      <h1 className="text-center">IEEE {props.shortname.toUpperCase()} Nedir?</h1>
+      <h1 className="text-center">IEEE {props.shortname} Nedir?</h1>
       <p className="bigger">{props.aboutGlobal}</p>
       <hr className='hr-style' />
-      <h1 className="text-center">IEEE Ege {props.shortname.toUpperCase()} Nedir?</h1>
+      <h1 className="text-center">IEEE Ege {props.shortname} Nedir?</h1>
       <p className="bigger">{props.aboutEge}</p>
       <hr className='hr-style' />
       <h1 className="text-center">İdari Kurul Üyelerimiz</h1>

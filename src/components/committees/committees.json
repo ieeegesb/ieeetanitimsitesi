@@ -14,7 +14,7 @@
     },
 
     "aess": {
-        "shortname": "aess" ,
+        "shortname": "AESS" ,
         "fullname": "Aerospace & Electronic Systems Society",
         "aboutGlobal": "Aerospace & Electronic Systems Society (AESS); Havacılık alanıyla ilgilenen bir IEEE komitesidir. Komitenin temel amacı üyelerine havacılık-uzay, aviyonik, uzay sistemleri, havacılık elektroniği ve temel aerodinamik hakkında eğitimler, konferans ve etkinlikler düzenleyerek bilgiler vermektir.",
         "aboutEge": "IEEE Ege Aerospace & Electronic Systems Society kurulduğu günden bu yana havacılık alanına ilgisi olan ve bu alanda kendine bir şeyler katmak isteyen Ege Üniversitesi öğrencilerini çatısı altına alarak ve her geçen gün gelişerek ilerlemektedir. Son yıllarda komite, teknik çalışmalarının yanında sıklıkla sosyal faaliyetlere de başlamıştır. Bu misyonla her sene başında yeni gelen ve önceki yıllardan bünyesinde bulunan üyelerle birlikte; teknik geziler, salon etkinlikleri ve teknofest projeleri için alt ekipler oluşturulmaktadır. Komite bünyesinde 2021 ve 2022 yıllarında IEEE Dokuz Eylül Üniversitesi Aerospace & Electronic Systems Society ile birlikte Ege bölgesinin en büyük havacılık ve uzay zirvesi olan Aerosphere etkinliklerini düzenlemiştir. Teknik ekip olarak Ege Orion Sabit Kanat İHA Takımı ve Ege İHA takımı komitemiz bünyesinde aktif olarak çalışmalarını sürdürmektedir.",
@@ -22,15 +22,15 @@
     },
 
     "comsoc": {
-        "shortname": "comsoc" ,
+        "shortname": "ComSoc" ,
         "fullname": "Communications Society",
         "aboutGlobal": "IEEE Communications Society (ComSoc); ",
         "aboutEge": "",
-        "idariKurul": [{"name": "Başak Serttaş", "photo":"ras2", "desc": "Ben, Başak Serttaş. Ege Üniversitesi Elektrik Elektronik Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Communications Society kurucu başkanıyım."}]
+        "idariKurul": [{"name": "Başak Serttaş", "photo":"comsoc1", "desc": "Ben, Başak Serttaş. Ege Üniversitesi Elektrik Elektronik Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Communications Society kurucu başkanıyım."}]
     },
 
     "cs": {
-        "shortname": "cs" ,
+        "shortname": "CS" ,
         "fullname": "Computer Society",
         "aboutGlobal": "Computer Society (CS); IEEE’nin özellikle bilgisayar bilimlerine odaklanan komitesidir. Bu komitenin amacı, bilgisayar bilimi ve teknolojileri teorisini, pratiğini ve uygulamasını ileriye taşımak; üyelerini ve topluluğu bu alanda geliştirmek ve bilinçlendirmektir.",
         "aboutEge": "IEEE Ege Computer Society, IEEE Ege Öğrenci Kulübü'nün açılması ile birlikte 2010 yılında kurulmuştur. Kurulduğu tarihten itibaren Bilgisayar Bilimi ve Teknolojisi altındaki alanlarla yakından ilgilenen Ege Üniversitesi öğrencilerini aynı çatı altında toplayan bir komite olmuştur. Günümüzde IEEE Ege CS, hem teknik bir komite olma amacı gütmektedir, hem de sosyal faaliyetlerini gerçekleştirmektedir. Bu kapsamda çeşitli teknik ekiplerde yer alan öğrenciler hem kendi ilgi alanlarında ilerlemek için motivasyon sahibi olurken hem de bu alan üzerine birlikte çalışabilecekleri ekip arkadaşları bulmaktadır. Fullstack Web, Frontend, Backend, Data Science ve Mobil olmak üzere teknik ekiplerimiz çalışmalarını sürdürmektedir. Sosyal faaliyetlerimize değinecek olursak; IEEE Ege Computer Society bünyesinde her sene birçok webinar ve tea talk etkinliklerimiz gerçekleşmektedir. Geçtiğimiz senelerde IEEE Ege Computer Society olarak Ege bölgesinin en geniş kapsamlı siber güvenlik etkinliği CyberEge'yi 2016, 2017 ve 2018 yıllarında salon etkinliği, 2021 yılında ise online olarak gerçekleştirmiş olan komitemiz 2022 yılında online olarak gerçekleşen farklı bir etkinliğe imza atmıştır. Access IT etkinliğimiz 5 farklı alandan 5 farklı konuşmacının katılımıyla gerçekleşmiş ve izleyicileri tarafından beğeniyle karşılanmıştır.",
@@ -39,15 +39,15 @@
 
 
     "ea": {
-        "shortname": "ea" ,
+        "shortname": "EA" ,
         "fullname": "Educational Activities",
         "aboutGlobal": "Educational Activities IEEE’nin bir sosyal sorumluluk komitesidir. Komitenin amacı çocukların bilime olan bakışını değiştirirken aynı zamanda deneyler yaparak neyin nasıl olduğu konusunda fikir edinmeleri sağlamak ve bu erken yaşta edindikleri kazanımların ilerde geleceklerini şekillendirmesi konusunda yardımcı olmaktır. Educational Activities çocuklara bilimi anlatan ve öğreten bir komitedir.",
         "aboutEge": "IEEE Ege EA projeleri üç kısımdan oluşur; Project BEE: IEEE EGE EA topluluğu üyelerinin başlattığı Project BEE (Bilim Eğitim Eğlence) için planlanan üç projeyle neler yaptılar; Projenin ilk aşaması olan eğitim kategorisinde EA komitesi öncülüğünde IEEE Ege topluluğunun tüm komitelerinden katılan  mühendislik öğrencileri, beş farklı liseye mühendislik tanıtımları yaptılar. İkinci kısım olarak bilim kategorisinde ortaokullardaki öğrencilerle fen deneyleri yapıp, bu konuda çocuklara bilinç katmayı amaçladılar. Üçüncü ve son kısım olarak eğlence kategorisinde YouTube için, evde yapılabilecek bilim deneyleri videoları çektiler. Youtube kanallarında bu videoları paylaştılar. Anaokulu Bilim Deneyleri: Bilim günümüz dünyasında hayatın her yerinde ve her kesiminde bulunan bir yöntem olduğundan dolayı çocuk yaşta bu yöntemle karşılaşması, tanışması ve sorunlarını çözmede bilimi kullanmayı öğrenmesi bir toplumu ileriye taşıyacak en önemli etkenlerden biridir. Bu yüzden bu proje ile amacımız çocuk yaştaki arkadaşlarımızı bilimi en somut şekilde yaşayabilecekleri yol olan deneylerle karşı karşıya getirmek. Hour Of Code: İlkokul yaş grubundaki çocukların algoritmaya ilgisini arttırmak ve algoritma temelleri atmak için oyunlar yoluyla çocukların bilgisayar bilimlerinde gelişimini arttırmaya yönelik hedefi olan bir etkinliktir.",
-        "idariKurul": [{"name": "İrem Kurt", "photo":"edsoc1", "desc": "Ben, İrem Kurt. Ege Üniversitesi İnşaat Mühendisliği 1. Sınıf öğrencisiyim. IEEE Ege Educational Acitivities Society başkanıyım."}]
+        "idariKurul": [{"name": "İrem Kurt", "photo":"ea1", "desc": "Ben, İrem Kurt. Ege Üniversitesi İnşaat Mühendisliği 1. Sınıf öğrencisiyim. IEEE Ege Educational Acitivities Society başkanıyım."}]
     },
 
     "embs": {
-        "shortname": "embs" ,
+        "shortname": "EMBS" ,
         "fullname": "Engineering in Medicine & Biology Society",
         "aboutGlobal": "Engineering in Medicine and Biology Society (EMBS); biyolojik, tıbbi ve sağlık sorunlarına etkili çözümler sağlamak için mühendislik kavram ve yöntemlerinin biyoloji, tıp ve sağlık bilimlerinde geliştirilmesi ve uygulanması amacıyla kurulmuş bir komitedir.",
         "aboutEge": "IEEE EGE EMBS olarak geçen sene İzmir’in en büyük biyoteknoloji konferansı olan Biotech İzmir’i gerçekleştirdik. Sektörden Nobel ilaç, Abdi İbrahim gibi firmalar yer alırken; Koç, Hacettepe, Ege, Frayburg Üniversitelerinden ve Harvard MIT ‘den  alanında uzman kişiler konuşmacı olarak katıldılar. Farklı dallarda Teknofest yarışmalarına katıldık . Alanında uzman kişiler ile webinarlar gerçekleştirdik. Mezunlarımızla Tea Talklar düzenledik. Üyelerimiz ile spektrofotometre, eeg cihazı ve nabız ölçer yaptık.  IEEE EGE EMBS olarak sağlık, biyoloji ve mühendislik alanlarında kendimizi geliştirmeye devam ediyoruz.",
@@ -55,16 +55,16 @@
     },
 
     "pes": {
-        "shortname": "pes" ,
+        "shortname": "PES" ,
         "fullname": "Power & Energy Society",
         "aboutGlobal": "Power & Energy Society (PES), elektrik enerjisi endüstrisindeki en son teknolojik gelişmeleri paylaşmak, ekipman ve sistemlerin geliştirilmesine ve inşasına rehberlik eden standartlar geliştirmek ve endüstri üyelerini ve genel toplumu eğitmek için dünyanın en büyük forumunu sağlar. Bu amaç üzerine konferans ve toplantılar, yayınlar, eğitimler ve teknik faaliyetler yapar.",
         "aboutEge": "IEEE Ege Öğrenci Kolu bünyesinde bulunan IEEE Ege PES, Ege Bölgesi içerisinde sektörde öncü ve sektöre yardımcı olmaya çalışır. Enerji sektöründe ilerlemeyi hedefleyen ve “Enerji” alanına ilgi duyan üyelerini bilgiye en kolay yoldan ulaştırmayı ve sektöre kazandırmayı amaçlar. Dünyadaki enerji problemine sürdürülebilir çözümler getiren, insanlığa katkı sağlama bilincini tetikleyen bir oluşumdur. Bu amaç uğruna çeşitli salon etkinlikleri: İzmir Enerji Zirvesi’17 (Siemens, Enercon, E.Ü Nükleer Enerji Enstitüsü...), İzmir Enerji Zirvesi’18 (İzmir Kalkınma Ajansı, Schneider Electric,  JESDER,Klemsan…), İzmir Enerji Zirvesi’19 (Aselsan, Ford, Petkim, Xgen, Onur Enerji, İzgören Akademi…), İzmir Enerji Zirvesi’20 (Aselsan, Aspilsan, Roketsan, Mutlu Akü, TUSAŞ, Zorlu Enerji, Siemens Gamesa, Anadolu Ajansı, GDZ, E.Ü Güneş Enerjisi Enstitüsü, Tüpraş...), İzmir Enerji Zirvesi’21 (GDZ,TEMSA, TEHAD, E-Şarj Mobility, FNSS IOGENICS…), Enerji 5.0 Etkinliği (Avrupa Birliği projesi olan BEST For Energy tarafından desteklenmiştir); tea talklar ve webinarlar, teknik projeler ve teknik geziler düzenledik.",
-        "idariKurul": [{"name": "Egemen Toraman", "photo":"pes1", "desc": "Ben, Egemen Toraman. Ege Üniversitesi Makine Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Power & Energy Society başkanıyım."}, {"name": "Fuat Anıl Çapkın", "photo":"pes1", "desc": "Ben, Fuat Anıl Çapkın. Ege Üniversitesi Makine Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Power & Energy Society başkan yardımcısıyım."}]
+        "idariKurul": [{"name": "Egemen Toraman", "photo":"pes1", "desc": "Ben, Egemen Toraman. Ege Üniversitesi Makine Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Power & Energy Society başkanıyım."}, {"name": "Fuat Anıl Çapkın", "photo":"pes2", "desc": "Ben, Fuat Anıl Çapkın. Ege Üniversitesi Makine Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Power & Energy Society başkan yardımcısıyım."}]
     },
 
 
     "ras": {
-        "shortname": "ras" ,
+        "shortname": "RAS" ,
         "fullname": "Robotics & Automation Society",
         "aboutGlobal": "IEEE RAS; robotik, elektrik, elektronik, yazılım, mekatronik, otomasyon sektörleri başta olmak üzere  bu sektörlerdeki gelişmelere eşlik ederek çeşitli projeler yapmayı ve teorik olarak öğrenilen bilgilerin uygulanarak saha tecrübesi edinilmesini amaçlayan teknik ağırlıklı bir komitedir.",
         "aboutEge": "Bu dönem IEEE Ege RAS olarak her üye en az bir projede bulunacak şekilde Teknofest'e katılmak üzere Tarımsal İnsansız Kara Aracı (TİKA), Akıllı Ev Sistemleri, IoT Projeleri yapıyoruz. Ayrıca bu dönem ilki olacak EgeRun adlı yarışmamızı düzenlemeyi planlıyoruz. Bu yarışmanın amacı hem robotik programlamaya yeni giriş yapmış kişilerin kendini test etmesi hem de Teknofest'te Robotik Yarışmalar alanındaki Tasarla-Çalıştır'a katılacak olan ekipler için ön hazırlık olması amaçlanmaktadır. Yarışmada birbirinden eğlenceli robotik yarışmalar olması planlanmaktadır. Bu proje ve yarışmalar için IEEE Ege EdSoc ortaklığıyla Arduino Giriş Eğitimi, IoT Eğitimi ve Python ile Yapay Zekaya Giriş eğitimleri düzenledik.",
@@ -73,10 +73,11 @@
 
 
     "wie": {
-        "shortname": "wie" ,
+        "shortname": "WIE" ,
         "fullname": "Women in Engineering",
         "aboutGlobal": "IEEE Women In Engineering (WIE); bilim, teknoloji, mühendislik ve matematik dallarında kadınların ilerleme göstermesi ve sektördeki yerinin vurgulanması için kurulmuş en büyük uluslararası profesyonel organizasyondur. Vizyonumuz; mühendislikte kadınların ve erkeklerin topluluk içinde çeşitli yeteneklerini kullanarak insanlığın yararına yenilik yapmak için çalıştığı bir birliktelik olmasını amaçlıyoruz. Misyonumuz; kadınların mühendislikteki önemine dikkat çeken konferanslar, sempozyumlar, teknik projeler ve çeşitli etkinlikler yapmak.",
         "aboutEge": "IEEE EGE WIE olarak; bu yıl altıncısını gerçekleştireceğimiz İş Hayatında Kelebek Etkisi etkinliğimizi dijital olarak gerçekleştirmeyi planlıyoruz. 2-3 Nisan 2022 tarihlerinde 2 gün boyunca gerçekleştireceğimiz bu etkinliğin ana teması İnovasyon olacaktır. Etkinliğimizde; girişimcilik, analitik düşünme, mühendislik ve endüstri trendleri, inovatif dünyada edinilmesi gereken yetkinlikler başlıklı konulara ve alanlarında öncü yenilikçi ve ilham verici kadın girişimcilere yer verilecektir. Çeşitli sektör ve firmalarda yer alan alanında uzman kişilerden oluşan webinarlar düzenledik, düzenliyoruz. 2020-2021 döneminde çalışmalarına başladığımız İş Ödülleri etkimliğimiz; bu yıl ilk defa gerçekleşecek olup, iş hayatında kadın istihdamını artırmaya yönelik yapılan projelere, staj programlarına, eğitimlere yer veren firmaların topluluğumuz öğrencileri tarafından belirlenip ardından internet üzerinden yapılacak bir anket sonucu kazanan firmaya ödül vermeyi düşündüğümüz etkinliğimiz gerçekleşecektir. Etkinliğimizin amacı kadınlarımız için faydalı olan projelerin duyulması ve bu alandaki projelerin artması yönünde farkındalık yaratmayı amaçlamaktadır.",
         "idariKurul": [{"name": "Ayşe Güvenç", "photo":"wie1", "desc": "Ben, Ayşe Güvenç. Ege Üniversitesi Mekatronik Bölümü 2. Sınıf öğrencisiyim. IEEE Ege Women in Engineering başkanıyım."}, {"name": "Elif Bengüsu Ogelman", "photo":"wie2", "desc": "Ben, Elif Bengüsu Ogelman. Ege Üniversitesi Biyomühendislik Bölümü 2. Sınıf öğrencisiyim. IEEE Ege Women in Engineering başkan yardımcısıyım."}]
     }
+
 }
