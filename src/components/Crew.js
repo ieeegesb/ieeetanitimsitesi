@@ -55,9 +55,7 @@ const Crew = () => {
                         {/* WIE */}
                         <CrewCard props={committees.wie.idariKurul[0]}/>
                         <CrewCard props={committees.wie.idariKurul[1]}/>
-                       
-                        
-                        
+                         
                     </div>
                 </div>
             </div>

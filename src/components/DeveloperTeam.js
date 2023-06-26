@@ -19,7 +19,7 @@ const DeveloperTeam = () =>
             </div>
             <div class="flex1-ge">
                 <div>
-                    <img class="img-ge" src={require("../components/images/developers/alenbabayigit.jpg")} alt="Alen" />
+                    <img class="img-ge" src={require("../img/developers/alenbabayigit.jpg")} alt="Alen" />
                 </div>
             </div>
         </div>
@@ -78,30 +78,12 @@ const DeveloperTeam = () =>
                 </div>
             </div>
         </div>
-        {/*
-        <div class="container-ge flex-ge bg-ge">
-            <div class="flex2-ge content-ge">
-                <div class="developer-name-ge">
-                    Erhan Namlı
-                </div>
-                <div class="content-ge">
-                    <p>
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus aliquid, reiciendis dolores at eius exercitationem voluptatibus eligendi qui, doloremque eveniet fuga ullam nemo perspiciatis quibusdam sint enim sunt impedit porro molestiae odit nam dolorem tempora. Placeat omnis quisquam, recusandae odio maxime soluta consequatur magni eligendi sit necessitatibus adipisci officiis enim!
-                    </p>
-                </div>
-            </div>
-            <div class="flex1-ge">
-                <div>
-                    <img class="img-ge" src="https://picsum.photos/300/300" alt="" />
-                </div>
-            </div>
-        </div>
-        */}
+       
 
         <div class="container-ge flex-ge bg-ge">
             <div class="flex1-ge">
                 <div>
-                    <img class="img-ge" src={require("../components/images/developers/gizemduygusonmez.jpg")} alt="Gizem" />
+                    <img class="img-ge" src={require("../img/developers/gizemduygusonmez.jpg")} alt="Gizem" />
                 </div>
             </div>
             <div class="flex2-ge content-ge">
@@ -132,7 +114,7 @@ const DeveloperTeam = () =>
             </div>
             <div class="flex1-ge">
                 <div>
-                    <img class="img-ge" src={require("../components/images/developers/ozgurbayrasa.jpg")} alt="Ozgur" />
+                    <img class="img-ge" src={require("../img/developers/ozgurbayrasa.jpg")} alt="Ozgur" />
                 </div>
             </div>
         </div>
@@ -140,7 +122,7 @@ const DeveloperTeam = () =>
         <div class="container-ge flex-ge bg-ge">
             <div class="flex1-ge">
                 <div>
-                    <img class="img-ge" src={require("../components/images/developers/serapaltunbulak.jpg")} alt="Serap" />
+                    <img class="img-ge" src={require("../img/developers/serapaltunbulak.jpg")} alt="Serap" />
                 </div>
             </div>
             <div class="flex2-ge content-ge">

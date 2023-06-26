@@ -11,7 +11,7 @@ const Header = () =>
             
                 <li>
                     <a href="/#">
-                       <img className="logo" src={require("./images/ieeeEge.png")} alt="IEEE Logo" height="50px" /> 
+                       <img className="logo" src={require("../img/ieeeEge.png")} alt="IEEE Logo" height="50px" /> 
                     </a>
                 </li>
                 
