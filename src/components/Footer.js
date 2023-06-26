@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-sm-12 col-md-6">
                         <h6>Hakkımızda</h6>
-                        <p className="text-justify">IEEE Ege topluluğu 2010 yılında kuruldu. CS, RAS, WIE komiteleri kurulduktan sonra faaliyetlerine başlayan topluluk, 2016-2017 döneminin başında enerji sektörü ile bağlantılarını güçlendirmek adına PES’i kurdu. 2017-2018 döneminin başında birçok alanda eğitim vermek üzere EdSoc’u kurdu. 2018-2019 döneminde bünyesine iki yeni komite daha ekledi. Bunlar; AESS ve EMBS. 2021 yılında da girişimcilik mühendisliği üzerine etkinlikler yapan ENET komitemiz kurulmuştur. IEEE Ege olarak teknik, pratik eğitimler, konferanslar, paneller, zirveler düzenliyoruz. Ege Üniversitesi’ne, İzmir’e, Ege Bölgesi’ne ve ülkeye değer katmak için geleceğin adayları gençler olarak daima çalışıyoruz.</p>
+                        <p className="text-justify">IEEE Ege Öğrenci Topluluğu, 10 Aralık 2010 tarihinde Ege Üniversitesi Elektrik-Elektronik Bölümü bünyesinde kurulmuştur. Global Student Branch kurulumu bulunduğundan uluslararası düzeyde resmiyet kazanmıştır. IEEE Ege, bünyesinde bulunan 8 komite sayesinde havacılık, telekomünikasyon, yazılım, güç ve enerji, biyoteknoloji, robotik gibi bir çok mühendislik alanını kapsar ve bu alanlarda etkinlikler, konferanslar, teknik çalışmalar düzenler. Bu komiteler sırasıyla; Aerospace & Electronic Systems Society, Communications Society, Computer Society, Educational Activities, Engineering in Medicine & Biology Society, Power & Energy Society, Robotics & Automation Society ve Women in Engineering Affinity Group’dur.</p>
                     </div>
 
                     <div className="col-xs-6 col-md-3  committees">

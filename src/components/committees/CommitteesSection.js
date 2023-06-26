@@ -19,13 +19,7 @@ const CommitteesSection = () => {
                         <CommitteeCard props={committees.ras} />
                         <CommitteeCard props={committees.wie} />
                     </div>
-                    {/* <div className="row justify-content-md-center p-3">
-                        
-                    </div>
-
-                    <div className="row justify-content-md-center p-3">
-                        
-                    </div> */}
+                
                 </div>
             </div>
         </React.Fragment>

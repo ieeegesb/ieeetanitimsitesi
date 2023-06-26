@@ -5,7 +5,7 @@ const CommitteePage = ({ props }) => {
     <div className="container">
 
       <div className="committee-page-div">
-        <img src={require(`../images/${props.shortname.toLowerCase()}.png`)} alt={props.fullname} className="committee-page-img" />
+        <img src={require(`../../img/committees/${props.shortname.toLowerCase()}.png`)} alt={props.fullname} className="committee-page-img" /> 
       </div>
 
       <h1 className="text-center">IEEE {props.shortname} Nedir?</h1>
@@ -20,7 +20,7 @@ const CommitteePage = ({ props }) => {
           return <div className="container flex bg">
             <div className="flex1">
               <div>
-                <img src={require(`../images/idariKurul/${item.photo}.png`)} alt="" className="idarikurul-img" />
+                <img src={require(`../../img/idariKurul/${item.photo}.png`)} alt="" className="idarikurul-img" />
               </div>
             </div>
             <div className="flex2 ik-margin">
