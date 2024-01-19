@@ -1,0 +1,45 @@
+{
+    "yk": {
+        "baskan": {"name": "Alen Babayiğit", "photo":"yk1", "desc": "Ben, Alen Babayiğit. Ege Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Başkanıyım."},
+        "icisleri": {},
+        "disisleri": {},
+        "sayman": {},
+        "sekreter": {}
+    },
+    "dk": {},
+    "aess": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "comsoc": {
+        "baskan": {}
+    },
+    "cs": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "ea": {
+        "baskan": {}
+    },
+    "embs": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "pes": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "ras": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "wie": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "tanitim-tasarim": {
+        "tanitim-koordinatoru": {},
+        "tasarim-koordinatoru": {}
+    }
+}
+

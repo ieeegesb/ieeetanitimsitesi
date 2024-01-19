@@ -8,7 +8,7 @@ const CrewCard = ({ props }) => {
 
                 <h3>{props.name}</h3>
                 <div style={{textAlign: 'center', marginBottom: "20px"}}>
-                    <img src={require(`../img/idariKurul/${props.photo}.png`)} alt={props.name} className="crew-img" />
+                    <img src={require(`../img/crew23/${props.photo}.png`)} alt={props.name} className="crew-img" />
                     <br />
                     <p>{props.desc}</p>
                 </div>

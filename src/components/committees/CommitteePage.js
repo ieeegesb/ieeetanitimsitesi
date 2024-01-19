@@ -20,7 +20,7 @@ const CommitteePage = ({ props }) => {
           return <div className="container flex bg">
             <div className="flex1">
               <div>
-                <img src={require(`../../img/idariKurul/${item.photo}.png`)} alt="" className="idarikurul-img" />
+                <img src={require(`../../img/crew23/${item.photo}.png`)} alt="" className="idarikurul-img" />
               </div>
             </div>
             <div className="flex2 ik-margin">

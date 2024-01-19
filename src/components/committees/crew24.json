@@ -1,0 +1,51 @@
+{
+    "yk": {
+        "baskan": {},
+        "icisleri": {},
+        "disisleri": {},
+        "sayman": {},
+        "sekreter": {}
+    },
+    "dk": {},
+    "aess": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "comsoc": {
+        "baskan": {}
+    },
+    "cs": {
+        "baskan": {},
+        "yardimci": {},
+        "yardimci2": {}
+    },
+    "ea": {
+        "baskan": {}
+    },
+    "embs": {
+        "baskan": {},
+        "yardimci": {},
+        "yardimci2": {}
+    },
+    "pes": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "ras": {
+        "baskan": {},
+        "yardimci": {},
+        "yardimci2": {}
+    },
+    "wie": {
+        "baskan": {},
+        "yardimci": {}
+    },
+    "tanitim-tasarim": {
+        "tanitim-koordinatoru": {},
+        "tasarim-koordinatoru": {}
+    },
+    "sponsorluk": {
+        "sponsorluk-koordinatoru": {}
+    }
+}
+
