@@ -11,7 +11,7 @@ const AboutUs = () => {
         </div>
         <div className='col'>
           <h1 className="about-us-head">IEEE Ege Nedir?</h1>
-          <p className="about-us-text">IEEE Ege Öğrenci Topluluğu, 10 Aralık 2010 tarihinde Ege Üniversitesi Elektrik-Elektronik Bölümü bünyesinde kurulmuştur. Global Student Branch kurulumu bulunduğundan uluslararası düzeyde resmiyet kazanmıştır. IEEE Ege, bünyesinde bulunan 8 komite sayesinde havacılık, telekomünikasyon, yazılım, güç ve enerji, biyoteknoloji, robotik gibi bir çok mühendislik alanını kapsar ve bu alanlarda etkinlikler, konferanslar, teknik çalışmalar düzenler. Bu komiteler sırasıyla; Aerospace & Electronic Systems Society, Communications Society, Computer Society, Educational Activities, Engineering in Medicine & Biology Society, Power & Energy Society, Robotics & Automation Society ve Women in Engineering Affinity Group’dur.</p>
+          <p className="about-us-text">IEEE Ege Öğrenci Topluluğu, 10 Aralık 2010 tarihinde Ege Üniversitesi Elektrik-Elektronik Bölümü bünyesinde kurulmuştur. Global Student Branch kurulumu bulunduğundan uluslararası düzeyde resmiyet kazanmıştır. IEEE Ege, bünyesinde bulunan 8 komite ve 2 koordinatörlük sayesinde havacılık, telekomünikasyon, yazılım, güç ve enerji, biyoteknoloji, robotik gibi bir çok mühendislik alanını kapsar ve bu alanlarda etkinlikler, konferanslar, teknik çalışmalar düzenler. Bu komiteler sırasıyla; Aerospace & Electronic Systems Society, Communications Society, Computer Society, Educational Activities, Engineering in Medicine & Biology Society, Power & Energy Society, Robotics & Automation Society, Women in Engineering Affinity Group, Tanıtım-Tasarım Koordinatörlüğü ve Sponsorluk Koordinatörlüğü'dür.</p>
         </div>
         
       </div>
