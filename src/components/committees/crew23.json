@@ -1,45 +1,27 @@
 {
     "yk": {
         "baskan": {"name": "Alen Babayiğit", "photo":"yk1", "desc": "Ben, Alen Babayiğit. Ege Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Başkanıyım."},
-        "icisleri": {},
-        "disisleri": {},
-        "sayman": {},
-        "sekreter": {}
+        "icisleri": {"name": "Onur Cem Şahin", "photo":"yk2", "desc": "Ben, Onur Cem Şahin. Ege Üniversitesi Makine Mühendisliği 4. Sınıf öğrencisiyim. Yönetim Kurulu İçişlerinden Sorumlu YK Başkan Yardımcısıyım."},
+        "disisleri": {"name": "Sena Akça", "photo":"yk3", "desc": "Ben, Sena Akça. Ege Üniversitesi İnşaat Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Dışişlerinden Sorumlu YK Başkan Yardımcısıyım."},
+        "sayman": {"name": "Siyabend Ürün", "photo":"yk4", "desc": "Ben, Siyabend Ürün. Ege Üniversitesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Saymanıyım."},
+        "sekreter": {"name": "Barış Can Ünal", "photo":"yk5", "desc": "Ben, Barış Can Ünal. Ege Üniversitesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Yönetim Kurulu Sekreteriyim."}
     },
-    "dk": {},
-    "aess": {
-        "baskan": {},
-        "yardimci": {}
-    },
-    "comsoc": {
-        "baskan": {}
-    },
-    "cs": {
-        "baskan": {},
-        "yardimci": {}
-    },
-    "ea": {
-        "baskan": {}
-    },
-    "embs": {
-        "baskan": {},
-        "yardimci": {}
-    },
-    "pes": {
-        "baskan": {},
-        "yardimci": {}
-    },
-    "ras": {
-        "baskan": {},
-        "yardimci": {}
-    },
-    "wie": {
-        "baskan": {},
-        "yardimci": {}
-    },
-    "tanitim-tasarim": {
-        "tanitim-koordinatoru": {},
-        "tasarim-koordinatoru": {}
-    }
-}
 
+    "aess": [{"name": "Fahrünisa Bozduman", "photo":"aess1", "desc": "Ben, Fahrünisa Bozduman. Ege Üniversitesi Makine Mühendisliği 4. Sınıf öğrencisiyim. IEEE Ege Aerospace & Electronic Systems Society Başkanıyım."}, {"name": "Mehmet Enes Palalıoğlu", "photo":"aess2", "desc": "Ben, Mehmet Enes Palalıoğlu. Ege Üniversitesi Makine Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Aerospace & Electronic Systems Society Başkan Yardımcısıyım."}],
+
+    "comsoc": [{"name": "Başak Serttaş", "photo":"comsoc1", "desc": "Ben, Başak Serttaş. Ege Üniversitesi Elektrik Elektronik Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Communications Society kurucu Başkanıyım."}],
+
+    "cs": [{"name": "Barış Can Ünal", "photo":"cs1", "desc": "Ben, Barış Can Ünal. Ege Üniversitesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Computer Society Başkanıyım."}, {"name": "Hüseyin Kaplan", "photo":"cs2", "desc": "Ben, Hüseyin Kaplan. Ege Üniversitesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Computer Society başkan yardımcısıyım."}],
+    
+    "ea": [{"name": "İrem Kurt", "photo":"ea1", "desc": "Ben, İrem Kurt. Ege Üniversitesi İnşaat Mühendisliği 1. Sınıf öğrencisiyim. IEEE Ege Educational Acitivities Başkanıyım."}],
+
+    "embs": [{"name": "Aslı Kalender", "photo":"embs1", "desc": "Ben, Aslı Kalender. Ege Üniversitesi Biyomühendislik Bölümü 3. Sınıf öğrencisiyim. IEEE Ege Engineering in Medicine & Biology Society Başkanıyım."}, {"name": "Zeliha Eren", "photo":"embs2", "desc": "Ben, Zeliha Eren. Ege Üniversitesi Biyokimya Bölümü 2. Sınıf öğrencisiyim. IEEE Ege Engineering in Medicine & Biology Society başkan yardımcısıyım."}],
+
+    "pes": [{"name": "Egemen Toraman", "photo":"pes1", "desc": "Ben, Egemen Toraman. Ege Üniversitesi Makine Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Power & Energy Society Başkanıyım."}, {"name": "Fuat Anıl Çapkın", "photo":"pes2", "desc": "Ben, Fuat Anıl Çapkın. Ege Üniversitesi Makine Mühendisliği 3. Sınıf öğrencisiyim. IEEE Ege Power & Energy Society başkan yardımcısıyım."}],
+
+    "ras": [{"name": "Siyabend Ürün", "photo":"ras1", "desc": "Ben, Siyabend Ürün. Ege Üniversitesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Robotics & Automation Society Başkanıyım."}, {"name": "Başak Serttaş", "photo":"ras2", "desc": "Ben, Başak Serttaş. Ege Üniversitesi Elektrik Elektronik Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Robotics & Automation Society başkan yardımcısıyım."}],
+
+    "wie": [{"name": "Ayşe Güvenç", "photo":"wie1", "desc": "Ben, Ayşe Güvenç. Ege Üniversitesi Mekatronik Bölümü 2. Sınıf öğrencisiyim. IEEE Ege Women in Engineering Başkanıyım."},{"name": "Elif Bengüsu Ogelman", "photo":"wie2", "desc": "Ben, Elif Bengüsu Ogelman. Ege Üniversitesi Biyomühendislik Bölümü 2. Sınıf öğrencisiyim. IEEE Ege Women in Engineering başkan yardımcısıyım."}],
+    
+    "tanitim-tasarim": [{"name": "Merve Nilay Gülbil", "photo":"tanitim", "desc": "Ben, Merve Nilay Gülbil. Ege Üniversitesi Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim. IEEE Ege Tanıtım Koordinatörüyüm."}]
+}
