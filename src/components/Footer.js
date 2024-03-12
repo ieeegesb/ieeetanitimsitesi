@@ -1,6 +1,7 @@
 import React from 'react'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faInstagram, faLinkedin, faTwitter, faYoutube  } from '@fortawesome/free-brands-svg-icons';
+import data from './committees/committees.json';
 
 const Footer = () => {
     return (
@@ -15,14 +16,19 @@ const Footer = () => {
                     <div className="col-xs-6 col-md-3  committees">
                         <h6>Komitelerimiz</h6>
                         <ul className="footer-links">
-                            <li><a href="/aess">AESS</a></li>
-                            <li><a href="/comsoc">ComSoc</a></li>
-                            <li><a href="/cs">CS</a></li>
-                            <li><a href="/ea">EA</a></li>
-                            <li><a href="/embs">EMBS</a></li>
-                            <li><a href="/pes">PES</a></li>
-                            <li><a href="/ras">RAS</a></li>
-                            <li><a href="/wie">WIE</a></li>
+                            {Object.entries(data).map(([key, value]) =>
+                                value.shortname ? (
+                                <li key={key}>
+                                    <a
+                                        title={value.shortname}
+                                        href={`/${key}`}
+                                        style={{ display: "block" }}
+                                    >
+                                        {value.shortname}
+                                    </a>
+                                </li>
+                                ) : null
+                            )}
                         </ul>
                     </div>
 
