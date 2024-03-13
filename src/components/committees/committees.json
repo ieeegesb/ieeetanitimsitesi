@@ -14,6 +14,8 @@
     },
 
     "aess": {
+        "isCommittee": "true",
+        "path": "/aess",
         "shortname": "AESS" ,
         "fullname": "Aerospace & Electronic Systems Society",
         "aboutGlobal": "Aerospace & Electronic Systems Society (AESS); Havacılık alanıyla ilgilenen bir IEEE komitesidir. Komitenin temel amacı üyelerine havacılık-uzay, aviyonik, uzay sistemleri, havacılık elektroniği ve temel aerodinamik hakkında eğitimler, konferans ve etkinlikler düzenleyerek bilgiler vermektir.",
@@ -22,6 +24,8 @@
     },
 
     "comsoc": {
+        "isCommittee": "true",
+        "path": "/comsoc",
         "shortname": "ComSoc" ,
         "fullname": "Communications Society",
         "aboutGlobal": "IEEE Communications Society (ComSoc); ",
@@ -30,6 +34,8 @@
     },
 
     "cs": {
+        "isCommittee": "true",
+        "path": "/cs",
         "shortname": "CS" ,
         "fullname": "Computer Society",
         "aboutGlobal": "Computer Society (CS); IEEE’nin özellikle bilgisayar bilimlerine odaklanan komitesidir. Bu komitenin amacı, bilgisayar bilimi ve teknolojileri teorisini, pratiğini ve uygulamasını ileriye taşımak; üyelerini ve topluluğu bu alanda geliştirmek ve bilinçlendirmektir.",
@@ -39,6 +45,8 @@
 
 
     "ea": {
+        "isCommittee": "true",
+        "path": "/ea",
         "shortname": "EA" ,
         "fullname": "Educational Activities",
         "aboutGlobal": "Educational Activities IEEE’nin bir sosyal sorumluluk komitesidir. Komitenin amacı çocukların bilime olan bakışını değiştirirken aynı zamanda deneyler yaparak neyin nasıl olduğu konusunda fikir edinmeleri sağlamak ve bu erken yaşta edindikleri kazanımların ilerde geleceklerini şekillendirmesi konusunda yardımcı olmaktır. Educational Activities çocuklara bilimi anlatan ve öğreten bir komitedir.",
@@ -47,6 +55,8 @@
     },
 
     "embs": {
+        "isCommittee": "true",
+        "path": "/embs",
         "shortname": "EMBS" ,
         "fullname": "Engineering in Medicine & Biology Society",
         "aboutGlobal": "Engineering in Medicine and Biology Society (EMBS); biyolojik, tıbbi ve sağlık sorunlarına etkili çözümler sağlamak için mühendislik kavram ve yöntemlerinin biyoloji, tıp ve sağlık bilimlerinde geliştirilmesi ve uygulanması amacıyla kurulmuş bir komitedir.",
@@ -55,6 +65,8 @@
     },
 
     "pes": {
+        "isCommittee": "true",
+        "path": "/pes",
         "shortname": "PES" ,
         "fullname": "Power & Energy Society",
         "aboutGlobal": "Power & Energy Society (PES), elektrik enerjisi endüstrisindeki en son teknolojik gelişmeleri paylaşmak, ekipman ve sistemlerin geliştirilmesine ve inşasına rehberlik eden standartlar geliştirmek ve endüstri üyelerini ve genel toplumu eğitmek için dünyanın en büyük forumunu sağlar. Bu amaç üzerine konferans ve toplantılar, yayınlar, eğitimler ve teknik faaliyetler yapar.",
@@ -64,6 +76,8 @@
 
 
     "ras": {
+        "isCommittee": "true",
+        "path": "/ras",
         "shortname": "RAS" ,
         "fullname": "Robotics & Automation Society",
         "aboutGlobal": "IEEE RAS; robotik, elektrik, elektronik, yazılım, mekatronik, otomasyon sektörleri başta olmak üzere  bu sektörlerdeki gelişmelere eşlik ederek çeşitli projeler yapmayı ve teorik olarak öğrenilen bilgilerin uygulanarak saha tecrübesi edinilmesini amaçlayan teknik ağırlıklı bir komitedir.",
@@ -73,6 +87,8 @@
 
 
     "wie": {
+        "isCommittee": "true",
+        "path": "/wie",
         "shortname": "WIE" ,
         "fullname": "Women in Engineering",
         "aboutGlobal": "IEEE Women In Engineering (WIE); bilim, teknoloji, mühendislik ve matematik dallarında kadınların ilerleme göstermesi ve sektördeki yerinin vurgulanması için kurulmuş en büyük uluslararası profesyonel organizasyondur. Vizyonumuz; mühendislikte kadınların ve erkeklerin topluluk içinde çeşitli yeteneklerini kullanarak insanlığın yararına yenilik yapmak için çalıştığı bir birliktelik olmasını amaçlıyoruz. Misyonumuz; kadınların mühendislikteki önemine dikkat çeken konferanslar, sempozyumlar, teknik projeler ve çeşitli etkinlikler yapmak.",

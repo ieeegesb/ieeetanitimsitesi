@@ -19,37 +19,16 @@ function App() {
         <Route path='/developers' element={<DeveloperTeam />} /> 
         <Route path='/ekibimiz' element={<Crew />} /> 
         <Route path='*' element={<NotFound />} />
-        <Route path="/aess" element={<CommitteePage
-          props={committees.aess}
-        />} />
-        <Route path="/comsoc" element={<CommitteePage
-          props={committees.comsoc}
-        />} />
-
-        <Route path="/cs" element={<CommitteePage
-          props={committees.cs}
-        />} />
-
-        <Route path="/ea" element={<CommitteePage
-          props={committees.ea}
-        />} />
-
-        <Route path="/embs" element={<CommitteePage
-          props={committees.embs}
-        />} />
-
-        <Route path="/pes" element={<CommitteePage
-          props={committees.pes}
-        />} />
-
-        <Route path="/ras" element={<CommitteePage
-          props={committees.ras}
-        />} />
-
-        <Route path="/wie" element={<CommitteePage
-          props={committees.wie}
-        />} />
-
+        {
+          Object.values(committees).map(committee => {
+            if(!committee.isCommittee) return null;
+            return (
+              <Route path={committee.path} element={<CommitteePage
+                props={committee}
+              />} />
+            ) 
+          })
+        }
       </Routes>
       <Footer />
     </div>

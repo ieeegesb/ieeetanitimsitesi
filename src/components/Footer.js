@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faInstagram, faLinkedin, faTwitter, faYoutube  } from '@fortawesome/free-brands-svg-icons';
 import data from './committees/committees.json';
@@ -17,15 +18,9 @@ const Footer = () => {
                         <h6>Komitelerimiz</h6>
                         <ul className="footer-links">
                             {Object.entries(data).map(([key, value]) =>
-                                value.shortname ? (
+                                value.isCommittee ? (
                                 <li key={key}>
-                                    <a
-                                        title={value.shortname}
-                                        href={`/${key}`}
-                                        style={{ display: "block" }}
-                                    >
-                                        {value.shortname}
-                                    </a>
+                                    <Link to={value.path}>{value.shortname}</Link>
                                 </li>
                                 ) : null
                             )}
